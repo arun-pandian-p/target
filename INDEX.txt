@@ -1,0 +1,16 @@
+# 🗂️ ARUN PANDIAN — MASTER STRATEGY SYSTEM
+# Data Analyst Career Acceleration Playbook
+# Based on: GitHub (16 repos) · LeetCode (61 solved) · Portfolio (arunpandian.online)
+# Location: Coimbatore → Target: Chennai / Coimbatore / Bangalore
+# Graduation: 2026 B.Tech AI & DS
+
+strategies/
+├── 00_MASTER_ROADMAP.md          ← Start here every morning
+├── 01_daily_build_strategy.md    ← Build company product replicas daily
+├── 02_open_source_strategy.md    ← OSS contribution roadmap
+├── 03_ats_100_strategy.md        ← ATS 100 score system
+├── 04_network_industry_strategy.md ← Connect with industry friends
+├── 05_analyst_report_strategy.md ← Write analyst reports like a pro
+├── 06_leetcode_grind_plan.md     ← LeetCode improvement plan
+├── 07_weekly_schedule.md         ← Hour-by-hour weekly plan
+└── 08_30_60_90_day_plan.md       ← 3-month execution timeline
